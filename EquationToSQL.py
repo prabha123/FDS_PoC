@@ -19,8 +19,8 @@ AZURE_OPENAI_ENDPOINT = dbutils.secrets.get(scope="openaiAccess", key="openaiend
 
 # COMMAND ----------
 
-AZURE_OPENAI_API_KEY = '56c25056db95494ab740150f4c591ec4'
-AZURE_OPENAI_ENDPOINT = 'https://oai-fds-eastus2.openai.azure.com/'
+AZURE_OPENAI_API_KEY = 'your key value'
+AZURE_OPENAI_ENDPOINT = 'end point value'
 
 # COMMAND ----------
 
